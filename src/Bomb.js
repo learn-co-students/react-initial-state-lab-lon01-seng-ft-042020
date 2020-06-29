@@ -13,7 +13,7 @@ class Bomb extends Component{
     return this.state.secondsLeft === 0 ?  
     "Boom!" : `${this.state.secondsLeft} seconds left before I go boom!`
     }
-
+ 
     render(){
         return (
          <div>
