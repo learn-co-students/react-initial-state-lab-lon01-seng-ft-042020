@@ -2,7 +2,7 @@ import React, {Component} from "react"
 
 class ImageSlider extends Component{
 
-// Initialize the currentSlideIndex state
+// Initializes the currentSlideIndex state
     constructor(){
         super()
         this.state = {
